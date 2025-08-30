@@ -1,3 +1,4 @@
 #!/usr/bin/env python3
 
-wrong_type = 'abc' + 123
+type_error = "2" + "2" 
+print(type_error)
